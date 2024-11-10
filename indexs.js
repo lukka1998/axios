@@ -61,7 +61,7 @@ async function putdata(id){
         })
         console.log(response.data);
         if(response.status===200){
-            console.log("success")
+            console.log(" success")
         }
         else{
             console.log("failure")
